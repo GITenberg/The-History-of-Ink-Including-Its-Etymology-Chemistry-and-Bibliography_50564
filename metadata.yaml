@@ -1,10 +1,16 @@
 _repo: The-History-of-Ink-Including-Its-Etymology-Chemistry-and-Bibliography_50564
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50564-h/images/cover.jpg
 creator:
   author:
     agent_name: Davids, Thaddeus
     gutenberg_agent_id: '45977'
     url: http://www.gutenberg.org/2009/agents/45977
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50564#The-History-of-Ink-Including-Its-Etymology-Chemistry-and-Bibliography
 gutenberg_issued: '2015-11-27'
 gutenberg_type: Text
 identifiers:
